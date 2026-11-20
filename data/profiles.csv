@@ -1,0 +1,201 @@
+Age,Height,Caste,Education,Profession,Income,City,Complexion,Diet,Religion
+22,60,(3) Other Backward Castes (OBC) 3,Diploma - Nursing/ Health Sciences,Nurse,Upto INR 1 Lakh,Dibrugarh,Wheatish,Non-Veg,Hindu
+23,63,(1) Brahmin 1,Doctorate - Medicine,,Not applicable,Sonepur,Fair,Occasionally Non-Veg,Hindu
+24,61,(3) Other Backward Castes (OBC) 3,Bachelors - Commerce,Accounting Professional (Others),Upto INR 1 Lakh,Kolkata,Dark,Non-Veg,Hindu
+24,61,(3) Other Backward Castes (OBC) 3,Masters - Engineering/ Technology,Not working,Not applicable,Stuttgart,Fair,Occasionally Non-Veg,Hindu
+24,61,(5) Scheduled Tribes (ST) 5,Masters - Arts,Not working,Not applicable,Guwahati,Fair,Non-Veg,Hindu
+24,61,(5) Scheduled Tribes (ST) 5,Masters - Engineering/ Technology,Not working,Not applicable,Hyderabad,Fair,Occasionally Non-Veg,Hindu
+24,62,(1) Brahmin 1,Bachelors - Commerce,Finance Professional,INR 2 Lakh to 4 Lakh,Bengaluru / Bangalore,Fair,Veg,Hindu
+24,62,(1) Brahmin 1,Masters - Education,Not working,Not applicable,Mumbai,Wheatish,Veg,Hindu
+24,62,(3) Other Backward Castes (OBC) 3,Bachelors - Commerce,Not working,Not applicable,Other,Fair,Non-Veg,Hindu
+24,64,(1) Brahmin 1,Bachelors - Management,Event Manager,INR 1 Lakh to 2 Lakh,Ahmedabad,Wheatish,Veg,Hindu
+24,64,(2) Forward/General (except Brahmin) 2,Undergraduate - Education,Training Professional (Others),Upto INR 1 Lakh,Mumbai,Very Fair,Non-Veg,Hindu
+24,69,(2) Forward/General (except Brahmin) 2,Bachelors - Science,Business Owner / Entrepreneur,INR 4 Lakh to 7 Lakh,Rewari,Wheatish,Occasionally Non-Veg,Hindu
+25,61,(2) Forward/General (except Brahmin) 2,Masters - Computers/ IT,Not working,Not applicable,Satna,Fair,Veg,Hindu
+25,62,(2) Forward/General (except Brahmin) 2,Masters - Science,Teacher,INR 1 Lakh to 2 Lakh,Faridabad,Wheatish,Occasionally Non-Veg,Hindu
+25,62,(3) Other Backward Castes (OBC) 3,Bachelors - Arts,Not working,Not applicable,Barwani,Very Fair,Veg,Hindu
+25,63,(2) Forward/General (except Brahmin) 2,Bachelors - Architecture,Not working,Not applicable,Bengaluru / Bangalore,Fair,Occasionally Non-Veg,Hindu
+25,63,(3) Other Backward Castes (OBC) 3,Bachelors - Engineering/ Technology,Software Developer / Programmer,INR 2 Lakh to 4 Lakh,Bengaluru / Bangalore,Fair,Non-Veg,Hindu
+25,63,(4) Scheduled Castes (SC) 4,Bachelors - Nursing/ Health Sciences,Nurse,Upto INR 1 Lakh,Thiruvalla,Dark,Non-Veg,Hindu
+25,64,(1) Brahmin 1,Bachelors - Finance,Finance Professional,INR 4 Lakh to 7 Lakh,Pune,Wheatish,Non-Veg,Hindu
+25,64,(2) Forward/General (except Brahmin) 2,Bachelors - Computers/ IT,Sr. Manager / Manager,INR 1 Lakh to 2 Lakh,Nagpur,Fair,Veg,Hindu
+25,64,(2) Forward/General (except Brahmin) 2,Masters - Commerce,Not working,Dont want to specify,Nagpur,Fair,Veg,Hindu
+25,66,(2) Forward/General (except Brahmin) 2,Masters - Commerce,Banking Professional,INR 1 Lakh to 2 Lakh,Other,Wheatish,Veg,Hindu
+25,67,(3) Other Backward Castes (OBC) 3,Bachelors - Computers/ IT,Software Professional (Others),INR 2 Lakh to 4 Lakh,Pune,Wheatish,Veg,Hindu
+26,59,(4) Scheduled Castes (SC) 4,Undergraduate - Nursing/ Health Sciences,Banking Professional,Upto INR 1 Lakh,Delhi,Fair,Non-Veg,Hindu
+26,60,(3) Other Backward Castes (OBC) 3,Bachelors - Engineering/ Technology,Software Developer / Programmer,INR 4 Lakh to 7 Lakh,Bengaluru / Bangalore,Fair,Non-Veg,Hindu
+26,61,(1) Brahmin 1,Bachelors - Engineering/ Technology,Mechanical / Production Engineer,USD 60K to 80K,Irving,,Eggetarian,Hindu
+26,61,(2) Forward/General (except Brahmin) 2,Bachelors - Advertising/ Marketing,Not working,Not applicable,Amritsar,Wheatish,Veg,Hindu
+26,62,(3) Other Backward Castes (OBC) 3,Bachelors - Medicine,Medical / Healthcare Professional (Others),INR 2 Lakh to 4 Lakh,Noida,Fair,Veg,Hindu
+26,63,(2) Forward/General (except Brahmin) 2,Masters - Engineering/ Technology,Not working,Not applicable,Aligarh,Fair,Veg,Hindu
+26,63,(2) Forward/General (except Brahmin) 2,Masters - Management,Human Resources Professional,INR 1 Lakh to 2 Lakh,Vadodara,Fair,Non-Veg,Hindu
+26,63,(3) Other Backward Castes (OBC) 3,Masters - Computers/ IT,Professor,Dont want to specify,Ludhiana,Fair,Veg,Hindu
+26,63,(4) Scheduled Castes (SC) 4,Masters - Education,Teacher,INR 2 Lakh to 4 Lakh,Delhi,Wheatish,Non-Veg,Hindu
+26,64,(1) Brahmin 1,Masters - Management,Non IT Engineer (Others),INR 2 Lakh to 4 Lakh,Hyderabad,Fair,Veg,Hindu
+26,64,(3) Other Backward Castes (OBC) 3,Masters - Science,Not working,Not applicable,Kolkata,Fair,Occasionally Non-Veg,Hindu
+26,64,(4) Scheduled Castes (SC) 4,Bachelors - Education,Teacher,Upto INR 1 Lakh,Thrissur,Fair,Occasionally Non-Veg,Hindu
+26,65,(3) Other Backward Castes (OBC) 3,Doctorate - Medicine,Dentist,INR 2 Lakh to 4 Lakh,Jagdalpur,Very Fair,Occasionally Non-Veg,Hindu
+26,66,(1) Brahmin 1,Bachelors - Engineering/ Technology,Finance Professional,INR 7 Lakh to 10 Lakh,Kanpur,Fair,Veg,Hindu
+26,66,(2) Forward/General (except Brahmin) 2,Masters - Management,Consultant / Supervisor / Team Leads,USD 100K to 125K,Troy,,Non-Veg,Hindu
+26,67,(4) Scheduled Castes (SC) 4,Bachelors - Management,Banking Professional,USD 40K to 60K,Markham,,Non-Veg,Hindu
+26,72,(3) Other Backward Castes (OBC) 3,Undergraduate - Computers/ IT,Finance Professional,INR 2 Lakh to 4 Lakh,Viluppuram,Dark,Non-Veg,Hindu
+27,54,(2) Forward/General (except Brahmin) 2,Honours degree - Arts,Teacher,INR 1 Lakh to 2 Lakh,Jorhat,Dark,Veg,Hindu
+27,60,(1) Brahmin 1,Masters - Finance,null,INR 2 Lakh to 4 Lakh,Hyderabad,Wheatish,Veg,Hindu
+27,60,(4) Scheduled Castes (SC) 4,Bachelors - Computers/ IT,Not working,Not applicable,Pune,Wheatish,Occasionally Non-Veg,Hindu
+27,61,(1) Brahmin 1,Less than high school - Fashion,Not working,Upto INR 1 Lakh,Ludhiana,Fair,Veg,Hindu
+27,61,(2) Forward/General (except Brahmin) 2,Undergraduate - Commerce,Not working,Upto INR 1 Lakh,Other,Wheatish,Non-Veg,Hindu
+27,61,(3) Other Backward Castes (OBC) 3,Bachelors - Engineering/ Technology,Software Professional (Others),Dont want to specify,Nashville,Wheatish,Non-Veg,Hindu
+27,62,(6) Others 6,Masters - Commerce,Not working,Not applicable,Sagar,Fair,Veg,Hindu
+27,63,(2) Forward/General (except Brahmin) 2,Bachelors - Commerce,Chartered Accountant,INR 2 Lakh to 4 Lakh,Delhi,Fair,Veg,Hindu
+27,63,(2) Forward/General (except Brahmin) 2,Doctorate - Medicine,Doctor,Dont want to specify,Temecula,Fair,Veg,Hindu
+27,64,(3) Other Backward Castes (OBC) 3,Less than high school - Education,,Not applicable,Mumbai,Wheatish,,Hindu
+27,64,(4) Scheduled Castes (SC) 4,High school - Arts,Not working,Not applicable,Other,Very Fair,Non-Veg,Hindu
+27,65,(2) Forward/General (except Brahmin) 2,Masters - Commerce,Software Developer / Programmer,Dont want to specify,Bengaluru / Bangalore,Wheatish,Non-Veg,Hindu
+27,66,(1) Brahmin 1,Bachelors - Computers/ IT,Software Professional (Others),INR 7 Lakh to 10 Lakh,Bengaluru / Bangalore,Very Fair,Veg,Hindu
+27,66,(1) Brahmin 1,Masters - Architecture,Sr. Manager / Manager,INR 7 Lakh to 10 Lakh,Bengaluru / Bangalore,Fair,Non-Veg,Hindu
+27,71,(3) Other Backward Castes (OBC) 3,High school - Travel & Tourism,Not working,INR 1 Lakh to 2 Lakh,Beed,Very Fair,Non-Veg,Hindu
+28,57,(4) Scheduled Castes (SC) 4,Bachelors - Commerce,null,INR 1 Lakh to 2 Lakh,Erode,,Non-Veg,Hindu
+28,59,(3) Other Backward Castes (OBC) 3,Masters - Finance,Not working,Not applicable,Panipat,Fair,Veg,Hindu
+28,60,(1) Brahmin 1,Bachelors - Management,null,INR 2 Lakh to 4 Lakh,Kolkata,Dark,Non-Veg,Hindu
+28,60,(3) Other Backward Castes (OBC) 3,Diploma - Management,Other Airline Professional,INR 1 Lakh to 2 Lakh,Mumbai,Wheatish,Veg,Hindu
+28,60,(3) Other Backward Castes (OBC) 3,Trade school - Home Science,Not working,INR 1 Lakh to 2 Lakh,Kannauj,Wheatish,Veg,Hindu
+28,61,(1) Brahmin 1,Diploma - Education,Consultant / Supervisor / Team Leads,INR 2 Lakh to 4 Lakh,Chandigarh,Fair,Veg,Hindu
+28,61,(2) Forward/General (except Brahmin) 2,Bachelors - Finance,Airforce,INR 10 Lakh to 15 Lakh,Delhi,Wheatish,Occasionally Non-Veg,Hindu
+28,62,(1) Brahmin 1,Bachelors - Engineering/ Technology,Software Developer / Programmer,Dont want to specify,Bengaluru / Bangalore,Fair,Veg,Hindu
+28,63,(1) Brahmin 1,Bachelors - Computers/ IT,Software Developer / Programmer,INR 7 Lakh to 10 Lakh,Bengaluru / Bangalore,Very Fair,Veg,Hindu
+28,63,(3) Other Backward Castes (OBC) 3,Bachelors - Arts,Public Relations Professional,INR 1 Lakh to 2 Lakh,Basti,Wheatish,Non-Veg,Hindu
+28,64,(2) Forward/General (except Brahmin) 2,Bachelors - Medicine,Pharmacist,Upto USD 40K,Santa Cruz De Tenerife,Wheatish,Non-Veg,Hindu
+28,64,(3) Other Backward Castes (OBC) 3,Bachelors - Arts,Agent / Broker / Trader / Contractor,Upto INR 1 Lakh,Buldhana,Fair,Non-Veg,Hindu
+28,65,(2) Forward/General (except Brahmin) 2,Masters - Commerce,,INR 4 Lakh to 7 Lakh,Chandigarh,Fair,Veg,Hindu
+28,65,(3) Other Backward Castes (OBC) 3,High school - Education,null,Upto INR 1 Lakh,Guntur,Fair,Non-Veg,Hindu
+28,66,(2) Forward/General (except Brahmin) 2,Masters - Advertising/ Marketing,Marketing Professional,Dont want to specify,Boston,Fair,Occasionally Non-Veg,Hindu
+28,67,(1) Brahmin 1,Bachelors - Engineering/ Technology,Software Developer / Programmer,INR 15 Lakh to 20 Lakh,Gurgaon,Wheatish,Veg,Hindu
+28,69,(3) Other Backward Castes (OBC) 3,Bachelors - Engineering/ Technology,Mechanical / Production Engineer,INR 4 Lakh to 7 Lakh,Other,Fair,Occasionally Non-Veg,Hindu
+28,71,(3) Other Backward Castes (OBC) 3,Masters - Engineering/ Technology,Non IT Engineer (Others),Dont want to specify,Overland Park,Wheatish,Occasionally Non-Veg,Hindu
+28,71,(4) Scheduled Castes (SC) 4,Trade school - Engineering/ Technology,Training Professional (Others),INR 1 Lakh to 2 Lakh,Alappuzha,,,Hindu
+28,72,(3) Other Backward Castes (OBC) 3,Honours degree - Science,Training Professional (Others),INR 2 Lakh to 4 Lakh,Jamshedpur,Fair,Occasionally Non-Veg,Hindu
+28,73,(2) Forward/General (except Brahmin) 2,Masters - Fashion,Sr. Manager / Manager,INR 7 Lakh to 10 Lakh,Bengaluru / Bangalore,Fair,Veg,Hindu
+28,73,(3) Other Backward Castes (OBC) 3,Masters - Commerce,Business Owner / Entrepreneur,Upto INR 1 Lakh,Mumbai,Fair,Veg,Hindu
+29,58,(3) Other Backward Castes (OBC) 3,Bachelors - Commerce,Accounting Professional (Others),INR 2 Lakh to 4 Lakh,Bengaluru / Bangalore,Fair,Occasionally Non-Veg,Hindu
+29,60,(3) Other Backward Castes (OBC) 3,Masters - Medicine,Surgeon,INR 2 Lakh to 4 Lakh,Wardha,Wheatish,Veg,Hindu
+29,61,(1) Brahmin 1,Bachelors - Computers/ IT,Finance Professional,INR 1 Lakh to 2 Lakh,Tiruppur,Fair,Veg,Hindu
+29,61,(3) Other Backward Castes (OBC) 3,Bachelors - Administrative services,Admin Professional,Dont want to specify,Sharjah,Fair,Veg,Hindu
+29,61,(3) Other Backward Castes (OBC) 3,Doctorate - Science,Not working,Not applicable,Kozhikode,Fair,Non-Veg,Hindu
+29,62,(2) Forward/General (except Brahmin) 2,Masters - Arts,Not working,Not applicable,Mymensingh,Fair,Non-Veg,Hindu
+29,62,(4) Scheduled Castes (SC) 4,Masters - Management,Not working,Not applicable,Lucknow,Fair,Occasionally Non-Veg,Hindu
+29,63,(4) Scheduled Castes (SC) 4,Undergraduate - Nursing/ Health Sciences,Medical / Healthcare Professional (Others),INR 4 Lakh to 7 Lakh,Bulandshahr,Fair,Veg,Hindu
+29,64,(2) Forward/General (except Brahmin) 2,Masters - Home Science,Professor,INR 1 Lakh to 2 Lakh,Gorakhpur,Fair,Veg,Hindu
+29,65,(2) Forward/General (except Brahmin) 2,Doctorate - Science,Research Assistant,USD 40K to 60K,Zurich,Very Fair,Non-Veg,Hindu
+29,65,(3) Other Backward Castes (OBC) 3,Bachelors - Engineering/ Technology,Mechanical / Production Engineer,INR 1 Lakh to 2 Lakh,Nagpur,Wheatish,Veg,Hindu
+29,66,(1) Brahmin 1,Masters - Advertising/ Marketing,Public Relations Professional,INR 4 Lakh to 7 Lakh,Delhi,Fair,Non-Veg,Hindu
+29,66,(1) Brahmin 1,Masters - Law,Company Secretary,Not applicable,Mumbai,Fair,Veg,Hindu
+29,66,(2) Forward/General (except Brahmin) 2,Masters - Law,Not working,Not applicable,Chandigarh,Fair,Veg,Hindu
+29,66,(3) Other Backward Castes (OBC) 3,Bachelors - Commerce,Finance Professional,Upto INR 1 Lakh,Godhra,Fair,Veg,Hindu
+29,66,(3) Other Backward Castes (OBC) 3,Masters - Computers/ IT,Teacher,INR 1 Lakh to 2 Lakh,Bilaspur,Wheatish,Non-Veg,Hindu
+29,67,(2) Forward/General (except Brahmin) 2,Doctorate - Medicine,Not working,Not applicable,Delhi,Fair,Veg,Hindu
+29,67,(3) Other Backward Castes (OBC) 3,Masters - Management,Human Resources Professional,INR 4 Lakh to 7 Lakh,Bengaluru / Bangalore,Wheatish,Non-Veg,Hindu
+29,68,(1) Brahmin 1,Bachelors - Architecture,Architect,Dont want to specify,Delhi,Wheatish,Occasionally Non-Veg,Hindu
+29,68,(2) Forward/General (except Brahmin) 2,Bachelors - Commerce,,INR 20 Lakh to 30 Lakh,Siliguri,Fair,Veg,Hindu
+30,58,(3) Other Backward Castes (OBC) 3,Masters - Administrative services,Accounting Professional (Others),INR 1 Lakh to 2 Lakh,Bhubaneswar,Fair,Veg,Hindu
+30,60,(3) Other Backward Castes (OBC) 3,Less than high school - Travel & Tourism,Designer (Others),Upto INR 1 Lakh,Erode,Fair,Veg,Hindu
+30,61,(4) Scheduled Castes (SC) 4,Masters - Arts,Not working,Not applicable,Daltonganj,Fair,Non-Veg,Hindu
+30,62,(1) Brahmin 1,Masters - Arts,Not working,Not applicable,Jalandhar,Fair,Veg,Hindu
+30,62,(2) Forward/General (except Brahmin) 2,Bachelors - Computers/ IT,Civil Engineer,INR 7 Lakh to 10 Lakh,Other,Very Fair,Non-Veg,Hindu
+30,62,(4) Scheduled Castes (SC) 4,Masters - Administrative services,Accounting Professional (Others),INR 2 Lakh to 4 Lakh,Hyderabad,Fair,Occasionally Non-Veg,Hindu
+30,63,(3) Other Backward Castes (OBC) 3,Diploma - Commerce,Accounting Professional (Others),Upto INR 1 Lakh,Malegaon,Wheatish,Veg,Hindu
+30,63,(4) Scheduled Castes (SC) 4,Bachelors - Arts,Banking Professional,INR 4 Lakh to 7 Lakh,Moga,Fair,Veg,Hindu
+30,64,(2) Forward/General (except Brahmin) 2,Masters - Arts,Journalist,Dont want to specify,Bengaluru / Bangalore,Very Fair,Occasionally Non-Veg,Hindu
+30,65,(2) Forward/General (except Brahmin) 2,Bachelors - Engineering/ Technology,Admin Professional,INR 2 Lakh to 4 Lakh,Nagaon,Fair,Non-Veg,Hindu
+30,65,(3) Other Backward Castes (OBC) 3,Bachelors - Computers/ IT,Finance Professional,INR 7 Lakh to 10 Lakh,Hyderabad,Wheatish,Non-Veg,Hindu
+30,66,(1) Brahmin 1,Bachelors - Commerce,Agent / Broker / Trader / Contractor,INR 2 Lakh to 4 Lakh,Churu,Fair,Veg,Hindu
+30,66,(2) Forward/General (except Brahmin) 2,Doctorate - Medicine,Doctor,Dont want to specify,Anaheim,Wheatish,Non-Veg,Hindu
+30,66,(2) Forward/General (except Brahmin) 2,High school - Arts,Customer Support / BPO / KPO Professional,INR 1 Lakh to 2 Lakh,Delhi,Dark,Occasionally Non-Veg,Hindu
+30,66,(3) Other Backward Castes (OBC) 3,Masters - Engineering/ Technology,Software Developer / Programmer,Dont want to specify,Pune,Wheatish,Non-Veg,Hindu
+30,66,(3) Other Backward Castes (OBC) 3,Masters - Management,Software Consultant,USD 40K to 60K,Amsterdam,Wheatish,Veg,Hindu
+30,66,(3) Other Backward Castes (OBC) 3,Undergraduate - Commerce,Hardware & Networking professional,Upto INR 1 Lakh,Mumbai,Wheatish,Non-Veg,Hindu
+30,67,(3) Other Backward Castes (OBC) 3,Bachelors - Education,Agricultural Professional (Others),INR 7 Lakh to 10 Lakh,Tadepalligudem,Fair,Non-Veg,Hindu
+30,67,(3) Other Backward Castes (OBC) 3,Bachelors - Medicine,Medical / Healthcare Professional (Others),INR 2 Lakh to 4 Lakh,Ambikapur,Fair,Veg,Hindu
+30,67,(3) Other Backward Castes (OBC) 3,Honours degree - Finance,Company Secretary,INR 1 Lakh to 2 Lakh,Belagavi / Belagaum,Fair,Veg,Hindu
+30,67,(4) Scheduled Castes (SC) 4,Masters - Arts,Defense Services (Others),INR 2 Lakh to 4 Lakh,Kanyakumari,Fair,Non-Veg,Hindu
+30,68,(2) Forward/General (except Brahmin) 2,Bachelors - Computers/ IT,Software Developer / Programmer,INR 10 Lakh to 15 Lakh,Delhi,Very Fair,Eggetarian,Hindu
+30,68,(2) Forward/General (except Brahmin) 2,Masters - Computers/ IT,Software Developer / Programmer,USD 60K to 80K,Chandler,Fair,Non-Veg,Hindu
+30,69,(3) Other Backward Castes (OBC) 3,Bachelors - Engineering/ Technology,Mechanical / Production Engineer,Dont want to specify,Bengaluru / Bangalore,Wheatish,Non-Veg,Hindu
+30,70,(1) Brahmin 1,Masters - Advertising/ Marketing,Sales Professional,Dont want to specify,Jamshedpur,Wheatish,Veg,Hindu
+30,70,(3) Other Backward Castes (OBC) 3,Bachelors - Computers/ IT,Medical / Healthcare Professional (Others),INR 7 Lakh to 10 Lakh,Mumbai,Fair,Non-Veg,Hindu
+30,71,(2) Forward/General (except Brahmin) 2,Masters - Computers/ IT,Electronics / Telecom Engineer,USD 200K to 250K,Ottawa,,Occasionally Non-Veg,Hindu
+30,72,(2) Forward/General (except Brahmin) 2,Masters - Medicine,Doctor,INR 7 Lakh to 10 Lakh,Kota,Fair,Occasionally Non-Veg,Hindu
+30,73,(3) Other Backward Castes (OBC) 3,Bachelors - Commerce,Business Owner / Entrepreneur,Dont want to specify,Kolkata,Fair,Non-Veg,Hindu
+31,59,(4) Scheduled Castes (SC) 4,Bachelors - Fashion,Fashion Designer,Upto INR 1 Lakh,Visakhapatnam,Fair,Non-Veg,Hindu
+31,61,(1) Brahmin 1,Bachelors - Computers/ IT,Not working,Not applicable,Other,Fair,Veg,Hindu
+31,61,(3) Other Backward Castes (OBC) 3,Masters - Education,Teacher,INR 1 Lakh to 2 Lakh,Tirunelveli,Fair,Veg,Hindu
+31,62,(2) Forward/General (except Brahmin) 2,Masters - Science,Science Professional (Others),INR 2 Lakh to 4 Lakh,Mumbai,Wheatish,Occasionally Non-Veg,Hindu
+31,63,(2) Forward/General (except Brahmin) 2,Associates degree - Finance,Chartered Accountant,Dont want to specify,Mumbai,Fair,Occasionally Non-Veg,Hindu
+31,63,(2) Forward/General (except Brahmin) 2,Undergraduate - Finance,,INR 1 Lakh to 2 Lakh,Mumbai,Fair,Veg,Hindu
+31,64,(1) Brahmin 1,Masters - Arts,Not working,Not applicable,Dehradun,Fair,Occasionally Non-Veg,Hindu
+31,65,(2) Forward/General (except Brahmin) 2,Honours degree - Finance,Accounting Professional (Others),INR 1 Lakh to 2 Lakh,Bokaro Steel City,Fair,Non-Veg,Hindu
+31,66,(1) Brahmin 1,High school - Computers/ IT,Business Owner / Entrepreneur,INR 4 Lakh to 7 Lakh,Chennai,Fair,Veg,Hindu
+31,66,(4) Scheduled Castes (SC) 4,Bachelors - Engineering/ Technology,Not working,Not applicable,Allahabad,Wheatish,Non-Veg,Hindu
+31,68,(1) Brahmin 1,Masters - Management,Sr. Manager / Manager,INR 4 Lakh to 7 Lakh,Hyderabad,Fair,Veg,Hindu
+31,68,(2) Forward/General (except Brahmin) 2,High school - Armed Forces,Defense Services (Others),INR 4 Lakh to 7 Lakh,Pune,Wheatish,Veg,Hindu
+31,68,(3) Other Backward Castes (OBC) 3,Masters - Arts,Medical Transcriptionist,INR 1 Lakh to 2 Lakh,Kanpur,Wheatish,Veg,Hindu
+31,69,(2) Forward/General (except Brahmin) 2,Bachelors - Computers/ IT,Finance Professional,INR 2 Lakh to 4 Lakh,Pune,Fair,Non-Veg,Hindu
+31,71,(2) Forward/General (except Brahmin) 2,Masters - Engineering/ Technology,Professor,INR 2 Lakh to 4 Lakh,Tiruppur,Wheatish,Non-Veg,Hindu
+31,72,(1) Brahmin 1,Masters - Engineering/ Technology,Software Developer / Programmer,USD 80K to 100K,Folsom,Very Fair,Eggetarian,Hindu
+31,73,(2) Forward/General (except Brahmin) 2,Masters - Engineering/ Technology,Software Professional (Others),USD 125K to 150K,Barrie,Very Fair,Non-Veg,Hindu
+32,63,(3) Other Backward Castes (OBC) 3,Bachelors - Medicine,Not working,Dont want to specify,Delhi,Fair,Occasionally Non-Veg,Hindu
+32,64,(1) Brahmin 1,Masters - Science,Teacher,INR 4 Lakh to 7 Lakh,Kolkata,Fair,Non-Veg,Hindu
+32,64,(3) Other Backward Castes (OBC) 3,Bachelors - Computers/ IT,,Upto GBP 20K,Surrey,,Veg,Hindu
+32,65,(2) Forward/General (except Brahmin) 2,Associates degree - Science,Farming,INR 2 Lakh to 4 Lakh,Jagtial,Fair,Veg,Hindu
+32,65,(3) Other Backward Castes (OBC) 3,High school - Commerce,Sales Professional,Upto INR 1 Lakh,Nagpur,Wheatish,Veg,Hindu
+32,65,(3) Other Backward Castes (OBC) 3,Undergraduate - Arts,Jewellery Designer,INR 1 Lakh to 2 Lakh,Kolkata,Fair,Veg,Hindu
+32,66,(3) Other Backward Castes (OBC) 3,Masters - Computers/ IT,Software Consultant,INR 7 Lakh to 10 Lakh,Bengaluru / Bangalore,Fair,Non-Veg,Hindu
+32,67,(3) Other Backward Castes (OBC) 3,Bachelors - Engineering/ Technology,Consultant / Supervisor / Team Leads,Dont want to specify,Mumbai,Fair,Veg,Hindu
+32,67,(3) Other Backward Castes (OBC) 3,Masters - Engineering/ Technology,Law Enforcement Employee (Others),INR 7 Lakh to 10 Lakh,Kanpur,Wheatish,Occasionally Non-Veg,Hindu
+32,67,(3) Other Backward Castes (OBC) 3,Masters - Engineering/ Technology,Software Developer / Programmer,Dont want to specify,Bengaluru / Bangalore,Fair,Non-Veg,Hindu
+32,68,(2) Forward/General (except Brahmin) 2,High school - Commerce,Travel & Transport Professional,INR 4 Lakh to 7 Lakh,Mumbai,Fair,Occasionally Non-Veg,Hindu
+32,68,(3) Other Backward Castes (OBC) 3,Doctorate - Engineering/ Technology,CxO / Chairman / Director / President,Dont want to specify,Noida,Very Fair,Occasionally Non-Veg,Hindu
+32,68,(4) Scheduled Castes (SC) 4,Masters - Computers/ IT,Software Professional (Others),INR 10 Lakh to 15 Lakh,Chennai,Fair,Non-Veg,Hindu
+32,70,(2) Forward/General (except Brahmin) 2,Bachelors - Commerce,Agent / Broker / Trader / Contractor,INR 2 Lakh to 4 Lakh,Mumbai,Wheatish,Veg,Hindu
+32,70,(2) Forward/General (except Brahmin) 2,Masters - Management,Sr. Manager / Manager,INR 10 Lakh to 15 Lakh,Gurgaon,Very Fair,Occasionally Non-Veg,Hindu
+32,70,(3) Other Backward Castes (OBC) 3,Masters - Computers/ IT,Software Developer / Programmer,USD 100K to 125K,Edison,Very Fair,Veg,Hindu
+32,71,(3) Other Backward Castes (OBC) 3,Bachelors - Engineering/ Technology,Electronics / Telecom Engineer,INR 2 Lakh to 4 Lakh,Jabalpur,Wheatish,Veg,Hindu
+32,73,(3) Other Backward Castes (OBC) 3,Masters - Computers/ IT,Human Resources Professional,INR 4 Lakh to 7 Lakh,Bengaluru / Bangalore,Fair,Non-Veg,Hindu
+33,60,(1) Brahmin 1,Diploma - Science,Event Manager,INR 10 Lakh to 15 Lakh,Gorakhpur,Very Fair,Non-Veg,Hindu
+33,60,(2) Forward/General (except Brahmin) 2,Bachelors - Administrative services,Admin Professional,INR 2 Lakh to 4 Lakh,Madurai,Fair,Non-Veg,Hindu
+33,62,(3) Other Backward Castes (OBC) 3,Bachelors - Medicine,Physiotherapist / Occupational Therapist,Dont want to specify,Hubbali-Dharwad,Fair,Veg,Hindu
+33,62,(3) Other Backward Castes (OBC) 3,Masters - Commerce,Media Professional,INR 1 Lakh to 2 Lakh,Karaikal,Fair,Non-Veg,Hindu
+33,65,(3) Other Backward Castes (OBC) 3,Diploma - Computers/ IT,null,INR 2 Lakh to 4 Lakh,Kasaragod,Fair,,Hindu
+33,65,(4) Scheduled Castes (SC) 4,Diploma - Engineering/ Technology,Fashion Designer,INR 2 Lakh to 4 Lakh,Gwalior,Very Fair,Non-Veg,Hindu
+33,65,(4) Scheduled Castes (SC) 4,Masters - Computers/ IT,Agent / Broker / Trader / Contractor,INR 2 Lakh to 4 Lakh,Other,Wheatish,Non-Veg,Hindu
+33,69,(3) Other Backward Castes (OBC) 3,Honours degree - Engineering/ Technology,null,INR 1 Lakh to 2 Lakh,Bengaluru / Bangalore,Fair,Non-Veg,Hindu
+33,70,(2) Forward/General (except Brahmin) 2,Masters - Finance,Chartered Accountant,INR 50 Lakh to 75 Lakh,Delhi,Fair,Veg,Hindu
+33,70,(3) Other Backward Castes (OBC) 3,Diploma - Commerce,Sportsman,Dont want to specify,Brisbane,Wheatish,Veg,Hindu
+33,70,(4) Scheduled Castes (SC) 4,Bachelors - Engineering/ Technology,Electronics / Telecom Engineer,INR 2 Lakh to 4 Lakh,Khandwa,Fair,Non-Veg,Hindu
+33,71,(3) Other Backward Castes (OBC) 3,Diploma - Engineering/ Technology,Mechanical / Production Engineer,INR 2 Lakh to 4 Lakh,Kolkata,Fair,Non-Veg,Hindu
+33,74,(2) Forward/General (except Brahmin) 2,Masters - Management,Finance Professional,INR 20 Lakh to 30 Lakh,Delhi,Fair,Veg,Hindu
+34,66,(2) Forward/General (except Brahmin) 2,Diploma - Engineering/ Technology,Electronics / Telecom Engineer,INR 2 Lakh to 4 Lakh,Mumbai,Fair,Occasionally Non-Veg,Hindu
+34,67,(1) Brahmin 1,Masters - Advertising/ Marketing,Marketing Professional,INR 20 Lakh to 30 Lakh,Hyderabad,Fair,Non-Veg,Hindu
+34,68,(3) Other Backward Castes (OBC) 3,Bachelors - Arts,Business Owner / Entrepreneur,INR 2 Lakh to 4 Lakh,Bengaluru / Bangalore,Fair,Veg,Hindu
+34,68,(3) Other Backward Castes (OBC) 3,Undergraduate - Computers/ IT,Sr. Manager / Manager,Dont want to specify,San Mateo,Wheatish,Veg,Hindu
+34,70,(3) Other Backward Castes (OBC) 3,Diploma - Management,Finance Professional,Dont want to specify,Gandhinagar,Fair,Veg,Hindu
+34,71,(2) Forward/General (except Brahmin) 2,Masters - Computers/ IT,Accounting Professional (Others),INR 1 Lakh to 2 Lakh,Karimnagar,Fair,Non-Veg,Hindu
+35,62,(1) Brahmin 1,Masters - Commerce,Not working,Not applicable,Jamnagar,Wheatish,Veg,Hindu
+35,64,(4) Scheduled Castes (SC) 4,Bachelors - Commerce,Accounting Professional (Others),INR 4 Lakh to 7 Lakh,Ahmedabad,Fair,Occasionally Non-Veg,Hindu
+35,65,(1) Brahmin 1,Masters - Management,CxO / Chairman / Director / President,Dont want to specify,Sydney,Fair,Occasionally Non-Veg,Hindu
+35,66,(2) Forward/General (except Brahmin) 2,Masters - Computers/ IT,Teacher,Upto INR 1 Lakh,Pathankot,Fair,Veg,Hindu
+35,68,(3) Other Backward Castes (OBC) 3,Bachelors - Arts,Banking Professional,INR 4 Lakh to 7 Lakh,Ratnagiri,Fair,Occasionally Non-Veg,Hindu
+35,68,(3) Other Backward Castes (OBC) 3,Masters - Finance,Admin Professional,INR 7 Lakh to 10 Lakh,Jamshedpur,Very Fair,Occasionally Non-Veg,Hindu
+35,68,(6) Others 6,Bachelors - Computers/ IT,Software Professional (Others),USD 80K to 100K,Boston,Fair,Occasionally Non-Veg,Hindu
+35,69,(2) Forward/General (except Brahmin) 2,Doctorate - Medicine,Medical / Healthcare Professional (Others),Not applicable,Elk Grove Village,Wheatish,Non-Veg,Hindu
+35,71,(4) Scheduled Castes (SC) 4,Diploma - Engineering/ Technology,null,Upto INR 1 Lakh,Bengaluru / Bangalore,Wheatish,Non-Veg,Hindu
+36,65,(4) Scheduled Castes (SC) 4,High school - Travel & Tourism,null,INR 1 Lakh to 2 Lakh,Chennai,Dark,Non-Veg,Hindu
+36,68,(3) Other Backward Castes (OBC) 3,Diploma - Engineering/ Technology,Electronics / Telecom Engineer,INR 2 Lakh to 4 Lakh,Solapur,Fair,Veg,Hindu
+36,69,(4) Scheduled Castes (SC) 4,Bachelors - Arts,Admin Professional,Dont want to specify,Delhi,Fair,Occasionally Non-Veg,Hindu
+37,67,(1) Brahmin 1,Bachelors - Arts,Business Owner / Entrepreneur,Dont want to specify,Guwahati,Fair,Non-Veg,Hindu
+38,64,(3) Other Backward Castes (OBC) 3,High school - Travel & Tourism,Business Owner / Entrepreneur,INR 1 Lakh to 2 Lakh,Muzaffarpur,Wheatish,Non-Veg,Hindu
+38,69,(3) Other Backward Castes (OBC) 3,Undergraduate - Commerce,null,INR 2 Lakh to 4 Lakh,Mumbai,Wheatish,Non-Veg,Hindu
+38,72,(2) Forward/General (except Brahmin) 2,Honours degree - Commerce,Business Owner / Entrepreneur,INR 7 Lakh to 10 Lakh,Jaipur,Fair,Veg,Hindu
+39,68,(3) Other Backward Castes (OBC) 3,Diploma - Fine Arts,Business Owner / Entrepreneur,Dont want to specify,Jaipur,Wheatish,Veg,Hindu
+41,63,(2) Forward/General (except Brahmin) 2,High school - Arts,Farming,INR 1 Lakh to 2 Lakh,Chhatarpur,Fair,Veg,Hindu
+47,70,(2) Forward/General (except Brahmin) 2,Honours degree - Computers/ IT,Electronics / Telecom Engineer,Dont want to specify,Toronto,Fair,Veg,Hindu
+48,69,(1) Brahmin 1,Undergraduate - Arts,null,INR 1 Lakh to 2 Lakh,Golaghat,Wheatish,Non-Veg,Hindu

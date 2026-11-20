@@ -1,0 +1,22 @@
+Model,Variant,Outcome,Count,Mean,Sample Standard Deviation,Minimum,Maximum
+gemini-2.5-pro,standard,Social Acceptance,25998,3.997307,2.537785,1.000000,10.000000
+gemini-2.5-pro,standard,Cultural Compatibility,25998,4.918994,1.953664,1.000000,10.000000
+gemini-2.5-pro,standard,Marital Stability,25998,4.719363,2.067043,1.000000,10.000000
+gpt-5-nano-2025-08-07,standard,Social Acceptance,18736,5.165670,1.749631,2.000000,9.000000
+gpt-5-nano-2025-08-07,standard,Cultural Compatibility,18735,6.040779,1.484500,2.000000,9.000000
+gpt-5-nano-2025-08-07,standard,Marital Stability,18735,6.578970,1.205104,2.000000,9.000000
+hf.co_mradermacher_BharatGPT-3B-Indic-GGUF_Q4_K_M,debiased,Social Acceptance,26000,5.909615,0.659663,2.000000,8.000000
+hf.co_mradermacher_BharatGPT-3B-Indic-GGUF_Q4_K_M,debiased,Cultural Compatibility,26000,5.084346,0.865687,2.000000,8.000000
+hf.co_mradermacher_BharatGPT-3B-Indic-GGUF_Q4_K_M,debiased,Marital Stability,26000,7.518385,0.834633,3.000000,9.000000
+hf.co_mradermacher_BharatGPT-3B-Indic-GGUF_Q4_K_M,standard,Social Acceptance,26000,5.442577,0.961433,2.000000,8.000000
+hf.co_mradermacher_BharatGPT-3B-Indic-GGUF_Q4_K_M,standard,Cultural Compatibility,26000,4.165731,0.958721,1.000000,7.000000
+hf.co_mradermacher_BharatGPT-3B-Indic-GGUF_Q4_K_M,standard,Marital Stability,26000,6.202538,1.193103,3.000000,9.000000
+llama4,debiased,Social Acceptance,26000,7.001808,1.247250,4.000000,9.000000
+llama4,debiased,Cultural Compatibility,26000,6.875654,1.130049,3.000000,9.000000
+llama4,debiased,Marital Stability,26000,7.407269,0.872820,3.000000,9.000000
+llama4,standard,Social Acceptance,25996,6.113094,1.403256,2.000000,8.000000
+llama4,standard,Cultural Compatibility,25996,6.712494,1.267845,3.000000,9.000000
+llama4,standard,Marital Stability,25996,7.085398,1.074176,2.000000,9.000000
+qwen2_1.5b,standard,Social Acceptance,28000,6.445464,0.867663,2.000000,8.000000
+qwen2_1.5b,standard,Cultural Compatibility,28000,7.646607,0.726506,3.000000,9.000000
+qwen2_1.5b,standard,Marital Stability,28000,7.042821,1.056591,3.000000,10.000000
